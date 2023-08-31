@@ -1,2 +1,2 @@
-# Pricing-Sub
+# Pricing-Table
 Its a FlexBox Pricing Table 
